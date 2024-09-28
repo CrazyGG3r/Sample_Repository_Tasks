@@ -1,2 +1,2 @@
 # Sample_Repository_Tasks
-All pf lab tasks sample organisation
+All pf lab tasks sample organization
